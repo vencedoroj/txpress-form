@@ -1,0 +1,23 @@
+*{
+    margin:;
+    padding:;
+}
+
+#Email{
+}
+
+.sec-div{
+    background-color: lightblue;
+    text-align: center;
+    width: 50%;
+    height: 800px;
+    margin:30px auto  ;
+}
+.first-div{
+    margin: 0px 50%
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
